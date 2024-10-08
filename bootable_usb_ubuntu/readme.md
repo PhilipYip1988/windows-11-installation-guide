@@ -378,4 +378,4 @@ From `downloads` copy `F6Drivers` and `NetworkDrivers` to the `INSTALL` Partitio
 
 <img src='./images/img_081.png' alt='img_081' width='650'/>
 
-The installation media is now ready. Return to [Windows 11 Setup Guide](./readme.md)
+The installation media is now ready. Return to [Windows 11 Setup Guide](../readme.md).

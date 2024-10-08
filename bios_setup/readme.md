@@ -195,4 +195,4 @@ Use `←` and `→` to highlight Yes and press `↵` to confirm:
 
 <img src='./images/img_033.png' alt='img_033' width='650'/>
 
-The BIOS is now setup for Windows 11. Return to [Windows 11 Setup Guide](./readme.md)
+The BIOS is now setup for Windows 11. Return to [Windows 11 Setup Guide](../readme.md).
