@@ -66,7 +66,7 @@ During this check, the Advanced Configuration and Power Interface (ACPI) Table w
 
 > * The Microsoft Product Activation Server will automatically reactivate Windows 11 on a previously registered device when connected to the internet.
 
-> Select Skip and select your Windows 11 Version. Then select accept:
+> Select *Skip* and select your Windows 11 Version. Then select *Accept*:
 
 </details>
 
