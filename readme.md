@@ -1,6 +1,6 @@
 # Windows 11 Setup Guide
 
-This is a Windows 11 Setup Guide for Dell Computers. In this guide I will look at installing Windows 11 on a Dell XPS 8960 equipped with a 13th Generation Intel Processor however the instructions in this guide will be applicable to other supported Dell Models that have a 8th Generation Intel Processor and newer.
+This is a Windows 11 Setup Guide for Dell Computers. In this guide I will look at installing Windows 11 on a Dell XPS 8960 equipped with a 13th Generation Intel Processor however the instructions in this guide will be applicable to other supported Dell Models.
 
 ## System Requirements
 
