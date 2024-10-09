@@ -4,7 +4,7 @@ This is a Windows 11 Setup Guide for Dell Computers. In this guide I will look a
 
 ## System Requirements
 
-To install Windows 11 your Device should have:
+To install Windows 11 your Device should satisfy the following:
 
 * 8th-15th Generation Intel Processor
 * 256 GB Internal Drive (SSD SATA or SSD NVMe)
@@ -16,7 +16,7 @@ To install Windows 11 your Device should have:
 
 > The minimum generation of processor supported by Microsoft is 8th Generation (Q4 2017 and newer):
 
-> * [Microsoft: Supported Processors for Windows 11 (24H2)](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-22h2-supported-intel-processors).
+> * [Microsoft: Supported Processors for Windows 11 (22H2-24H2)](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-22h2-supported-intel-processors).
 
 > However Microsoft's Windows 11 supported processor list only accounts for the age of the processor and not the processors overall capabilities:
 
