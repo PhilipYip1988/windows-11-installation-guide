@@ -68,26 +68,28 @@ To install Windows 11 your Device should satisfy the following:
 
 </details>
 
-## Creating Installation Media
-
-* Creating a Bootable USB (on Windows)
-* [Creating a Bootable USB (on Ubuntu)](/bootable_usb_ubuntu/readme.md)
-
 ## Upgrade Install
 
 * Performing an Upgrade Install
 
-## Updating the BIOS from USB
+## Clean Install
+
+### Creating Installation Media
+
+* Creating a Bootable USB (on Windows)
+* [Creating a Bootable USB (on Ubuntu)](/bootable_usb_ubuntu/readme.md)
+
+### Updating the BIOS from USB
 
 * Create a BIOS USB (Windows)
 * Create a BIOS USB (Linux)
 * Update from BIOS USB
 
-## BIOS Setup
+### BIOS Setup
 
 * [Dell BIOS Setup](/bios_setup/readme.md)
 
-## Clean Install
+### Clean Install
 
 * [Performing a Clean Install from USB](/clean_install/readme.md)
 
