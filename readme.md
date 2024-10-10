@@ -81,9 +81,8 @@ To install Windows 11 your Device should satisfy the following:
 
 ### Updating the BIOS from USB
 
-* Create a BIOS USB (Windows)
-* Create a BIOS USB (Linux)
-* Update from BIOS USB
+* [Update the BIOS from USB (Windows)](/bios_update_usb_windows/readme.md)
+* Update the BIOS from USB (Ubuntu)
 
 ### BIOS Setup
 
@@ -95,4 +94,4 @@ To install Windows 11 your Device should satisfy the following:
 
 ## Autorestart
 
-* [Preventing Windows 11 from Automatically Restarting using Active Hours]
+* Preventing Windows 11 from Automatically Restarting using Active Hours
