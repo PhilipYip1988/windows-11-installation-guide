@@ -2,7 +2,7 @@
 
 This guide looks at creating a Windows 11 Bootable USB with preinstallation drivers drivers using a Dell XPS 8960 as an example. The Bootable USB will be prepared on Ubuntu 24.04 LTS.
 
-## System Information
+## Checking System Information
 
 To view system details. Open up Settings from the Start Screen:
 
@@ -29,7 +29,7 @@ For more information, select system details:
 
 ##  Downloading Installation Media
 
-Windows 11 Installation Media can be downloaded from [Microsoft: Windows 11 Software Download Page](https://www.microsoft.com/en-gb/software-download/windows11). The first wo options are Windows Applications which cannot be run on Linux. Select the third option:
+Windows 11 Installation Media can be downloaded from [Microsoft: Windows 11 Software Download Page](https://www.microsoft.com/en-gb/software-download/windows11). The first two options are Windows Applications which cannot be run on Linux. Select the third option:
 
 <img src='./images/img_005.png' alt='img_005' width='900'/>
 

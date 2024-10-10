@@ -76,7 +76,7 @@ To install Windows 11 your Device should satisfy the following:
 
 ### Creating Installation Media
 
-* Creating a Bootable USB (on Windows)
+* [Creating a Bootable USB (on Windows)](/bootable_usb_windows/readme.md)
 * [Creating a Bootable USB (on Ubuntu)](/bootable_usb_ubuntu/readme.md)
 
 ### Updating the BIOS from USB
