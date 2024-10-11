@@ -1,6 +1,6 @@
 # Windows 11 Clean Install
 
-This tutorial will instruct in clean installation of Windows 11 from a Bootable USB on a supported Dell XPS 8960
+This tutorial will instruct in clean installation of Windows 11 from a Bootable USB on a supported Dell XPS 8960.
 
 ## Preinstallation Checks
 

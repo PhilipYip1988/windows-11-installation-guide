@@ -6,17 +6,21 @@ This is a Windows 11 Setup Guide for Dell Computers. In this guide I will look a
 
 To install Windows 11 your Device should satisfy the following:
 
-* 8th-15th Generation Intel Processor
+* 8th-15th Generation Intel Core or 2nd-7th Generation AMD Ryzen Processor
 * 256 GB Internal Drive (SSD SATA or SSD NVMe)
 * 8 GB RAM (DDR4 or DDR5)
 * BIOS Related Technologies which include UEFI, Secure Boot in Deployed Mode and TPM 2.0
 
 <details>
-<summary>Notes on Processors Generation</summary>
+<summary>Notes on Supported Processors, Processor Generation and Unsupported Processors</summary>
 
-> The minimum generation of processor supported by Microsoft is 8th Generation (Q4 2017 and newer):
+> The minimum generation of Intel processor supported by Microsoft is 8th Generation (Q4 2017 and newer):
 
-> * [Microsoft: Supported Processors for Windows 11 (22H2-24H2)](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-22h2-supported-intel-processors).
+> * [Microsoft: Supported Intel Processors for Windows 11 (22H2-24H2)](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-22h2-supported-intel-processors).
+
+> The minimum generation of AMD processor supported by Microsoft is 2nd Generation Ryzen (2018 and newer):
+
+> * [Microsoft: Supported AMD Processors for Windows 11 (22H2-24H2)](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-amd-processors).
 
 > However Microsoft's Windows 11 supported processor list only accounts for the age of the processor and not the processors overall capabilities:
 
@@ -35,9 +39,11 @@ To install Windows 11 your Device should satisfy the following:
 <details>
 <summary>Notes on Internal Drive</summary>
 
-> In my testing Windows 11 performs acceptably on a system with a SSD internal drive and is practically unusable on a system with a HDD internal drive. 
+> In my testing Windows 11 performs acceptably on a system with a SSD internal drive and is practically unusable on a system with a HDD internal drive which has a much slower access time. 
 
 > 500 GB SSDs are now very affordable and any HDD should be replaced before attempted installation of Windows 11.
+
+> Look at your systems Service Manual, to see how hard it is to access the internal drive and to check if the internal drive is replacable or soldered onto the motherboard (this is not normally done with hard drives which are bulkier). [Dell: Manuals](https://www.dell.com/support/home/en-uk?app=manuals).
 
 </details>
 
@@ -47,6 +53,8 @@ To install Windows 11 your Device should satisfy the following:
 > Any compatible system, including systems with an unsupported 6th or 7th Generation Intel processor should be using DDR4 or DDR5 RAM. Ideally the system should be equipped with 8 GB or RAM or superior, although the minimum requirement is 4 GB.
 
 > A system with DDR3 or earlier will be too slow to run Windows 11.
+
+> Look at your systems Service Manual, to see how hard it is to access the memory module and to check if the memory module is replacable or soldered onto the motherboard. [Dell: Manuals](https://www.dell.com/support/home/en-uk?app=manuals).
 
 </details>
 
@@ -70,7 +78,8 @@ To install Windows 11 your Device should satisfy the following:
 
 ## Upgrade Install
 
-* Performing an Upgrade Install
+* [Windows 11 Upgrade Assistant](./upgrade_assistant/readme.md)
+* [Performing an Upgrade Install from Installation ISO or USB](./upgrade_from_installation_media/readme.md)
 
 ## Clean Install
 
