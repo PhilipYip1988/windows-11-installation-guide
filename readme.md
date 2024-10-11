@@ -13,7 +13,7 @@ This is a Windows 11 Setup Guide for Dell Computers. This guide looks at install
 
 ## System Requirements
 
-To install Windows 11 your Device should satisfy the following **Soft** hardware requirements:
+To install Windows 11 your Device should satisfy the following **Soft** System Requirements:
 
 * 8th-15th Generation Intel Core or 2nd-7th Generation AMD Ryzen Processor
 * 256 GB Internal Drive (SSD SATA or SSD NVMe)
@@ -23,16 +23,16 @@ To install Windows 11 your Device should satisfy the following **Soft** hardware
 <details>
 <summary><b>Soft</b> and <b>Hard</b> System Requirements</summary>
 
-> Microsoft have two levels of hardware requirements for Windows 11 *Soft* and *Hard*.
+> Microsoft have two levels of System Requirements for Windows 11 *Soft* and *Hard*.
 
-> The **Soft** hardware Requirements are:
+> The **Soft** System Requirements are:
 
 > * 8th-15th Generation Intel Core or 2nd-7th Generation AMD Ryzen Processor
 > * 256 GB Internal Drive (SSD SATA or SSD NVMe)
 > * 8 GB RAM (DDR4 or DDR5)
 > * BIOS Related Technologies which include UEFI, Secure Boot in Deployed Mode and TPM 2.0
 
-> The **Hard** hardware Requirements relax the processor, memory and TPM requirement:
+> The **Hard** System Requirements relax the processor, memory and TPM requirement:
 
 > * 6th-7th Generation Intel Core or 1st Generation AMD Ryzen Processor
 > * 4 GB RAM (DDR4 or DDR5)
@@ -47,7 +47,7 @@ To install Windows 11 your Device should satisfy the following **Soft** hardware
 </details>
 
 <details>
-<summary>Notes on Supported <b>Soft</b> and <b>Hard</b> Processors</summary>
+<summary>Notes on Supported Processors</summary>
 
 > The minimum generation of Intel processor in Microsoft's *Soft* Requirement is an 8th Generation (Q4 2017 and newer):
 
@@ -59,7 +59,7 @@ To install Windows 11 your Device should satisfy the following **Soft** hardware
 
 > The *Soft* Requirement processor list only accounts for the date of manufacturer of the processor and not the processors overall capabilities:
 
-> * The Intel Celeron N4000 released at the same time as 8th Core Generation Processors for example is a low end processor that is listed in Microsoft's *Soft* Requirements. This processor as a consequence has worse specifications than a high end 6th or 7th Generation Processor. A comparison can be made on Intel's website [Intel: N4000 vs i3-6100T](https://ark.intel.com/content/www/us/en/ark/compare.html?productIds=88200,128988).
+> * The Intel Celeron N4000 manufactured at the same time as 8th Core Generation Processors for example is a low end processor that is listed in Microsoft's *Soft* Requirements. This processor as a consequence has worse specifications than a high end 6th or 7th Generation Processor. A comparison can be made on Intel's website [Intel: N4000 vs i3-6100T](https://ark.intel.com/content/www/us/en/ark/compare.html?productIds=88200,128988).
 
 </details>
 
