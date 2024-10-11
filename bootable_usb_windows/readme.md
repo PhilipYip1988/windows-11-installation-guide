@@ -265,13 +265,20 @@ Copy it to your NTFS Install Partition of your Bootable USB:
 
 <img src='./images/img_055.png' alt='img_055' width='900'/>
 
-The Drivers folders should contain drivers in the form of *.inf*
+The DriversF6 folders should contain drivers in the form of *.ini* files:
 
 <img src='./images/img_056.png' alt='img_056' width='900'/>
-<img src='./images/img_057.png' alt='img_057' width='900'/>
-<img src='./images/img_058.png' alt='img_058' width='900'/>
-<img src='./images/img_059.png' alt='img_059' width='900'/>
 
+<img src='./images/img_057.png' alt='img_057' width='900'/>
+
+<img src='./images/img_058.png' alt='img_058' width='900'/>
+
+The DriversNetwork folders should also contain drivers in the form of *.ini* files:
+
+<img src='./images/img_059.png' alt='img_059' width='900'/>
 
 <img src='./images/img_060.png' alt='img_060' width='900'/>
 
+<img src='./images/img_061.png' alt='img_061' width='900'/>
+
+The Windows 11 Bootable USB is now ready. Return to [Windows 11 Setup Guide](../readme.md).
