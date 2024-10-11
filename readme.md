@@ -95,3 +95,8 @@ To install Windows 11 your Device should satisfy the following:
 ## Autorestart
 
 * Preventing Windows 11 from Automatically Restarting using Active Hours
+
+
+# Editing Notes Update
+
+img_058 bootable USB windows
