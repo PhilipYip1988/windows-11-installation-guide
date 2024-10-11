@@ -59,7 +59,7 @@ To install Windows 11 your Device should satisfy the following **Soft** System R
 
 > The *Soft* Requirement processor list only accounts for the date of manufacturer of the processor and not the processors overall capabilities:
 
-> * The Intel Celeron N4000 manufactured at the same time as 8th Core Generation Processors for example is a low end processor that is listed in Microsoft's *Soft* Requirements. This processor as a consequence has worse specifications than a high end 6th or 7th Generation Processor. A comparison can be made on Intel's website [Intel: N4000 vs i3-6100T](https://ark.intel.com/content/www/us/en/ark/compare.html?productIds=88200,128988).
+> * The Intel Celeron N4000 manufactured at the same time as 8th Core Generation Processors for example is a low end processor that is listed in Microsoft's *Soft* Requirements. This processor as a consequence has worse specifications than a high end 6th or 7th Generation Processor. A comparison can be made on Intel's website [Intel: N4000 vs i3-6100T](https://ark.intel.com/content/www/us/en/ark/compare.html?productIds=88200,128988). It therefore passes the *Hard* System Requirements.
 
 </details>
 
@@ -128,6 +128,10 @@ To install Windows 11 your Device should satisfy the following **Soft** System R
 
 * [Performing a Clean Install from USB](/clean_install/readme.md)
 
-## Autorestart
+## Preboot Diagnostics
+
+* Running Preboot Diagnostics
+
+## Preventing Windows Update from Automatically Restarting
 
 * Preventing Windows 11 from Automatically Restarting using Active Hours

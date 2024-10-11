@@ -210,7 +210,7 @@ The Windows Setup will Check Your PC:
 
 <summary>Unsupported Processors or TPM Version</summary>
 
-> If attempting to upgrade a Device with an Unsupported Processor (for example in this case, in an OptiPlex 7040) or a Device without a TPM 2.0. *This Device doesn't currently meet Windows 11 System Requirements* will display. Select *Close*:
+> If attempting to upgrade a Device with an Unsupported Processor (for example in this case, in an OptiPlex 7040 with a 6th Generation Core i5-6500T) or a Device without a TPM 2.0. *This Device doesn't currently meet Windows 11 System Requirements* will display. Select *Close*:
 
 <img src='./images/img_039.png' alt='img_039' width='650'/>
 
