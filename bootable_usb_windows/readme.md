@@ -28,7 +28,7 @@ The minimum generation of processor supported by Microsoft is 8th generation, th
 
 ## Downloading Windows 11
 
-Windows 11 Installation Media can be downloaded from [Microsoft: Windows 11 Software Download Page](https://www.microsoft.com/en-gb/software-download/windows11). The first option is a Windows Application which is used for an in place upgrade. The second version uses the Windows Media Creation Tool and the third option (which is preferred and sued in this guide) is the direct ISO download.
+Windows 11 Installation Media can be downloaded from [Microsoft: Windows 11 Software Download Page](https://www.microsoft.com/en-gb/software-download/windows11). The first option is a Windows Application which is used for an in place upgrade. The second option uses the Windows Media Creation Tool and the third option (which is preferred and used in this guide) is the direct ISO download.
 
 <img src='./images/img_003.png' alt='img_003' width='900'/>
 

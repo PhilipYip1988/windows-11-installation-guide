@@ -353,7 +353,7 @@ Input your pin and confirm it and select *Next*:
 
 ## Privacy Settings
 
-In the next screens select your privacy option and select *Accept*:
+Some privacy options will now display. Review each setting and select *Accept*:
 
 <img src='./images/img_069.png' alt='img_069' width='900'/>
 
