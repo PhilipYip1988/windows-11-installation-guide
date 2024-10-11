@@ -7,7 +7,7 @@ This is a Windows 11 Setup Guide for Dell Computers. This guide looks at install
 
 > This guide is **NOT** official Dell or Microsoft Documentation. I do not work for either company however have been recognised by both companies for my expertise. I was recognised by Dell as a Dell Community Rockstar and by Microsoft as a Microsoft MVP.
 
-> If you found this GitHub repository useful. Please star it on GitHub so it get promoted to more people.
+> If you found this GitHub repository useful. Please star it on GitHub so it gets promoted to more people.
 
 </details>
 
