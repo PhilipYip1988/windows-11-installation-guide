@@ -97,7 +97,7 @@ If a BIOS Update has been downloaded it will install when the Device reboots:
 
 Windows 11 Installation Media can be downloaded from [Microsoft: Windows 11 Software Download Page](https://www.microsoft.com/en-gb/software-download/windows11):
 
-<img src='./images/img_018.png' alt='img_018' width='650'/>
+<img src='./images/img_018.png' alt='img_018' width='900'/>
 
 The first option, the Windows 11 Upgrade Assistant is a Windows Application which is used for an in place upgrade. To use the Windows 11 Upgrade Assistant see the alternative tutorial [Upgrading to the Latest Mainstream Windows 11 Build Using the Windows 11 Upgrade Assistant](../upgrade_assistant/readme.md). Note that the Windows 11 Upgrade Assistant is an Upgrade Route that allows only Supported Devices. 
 
@@ -117,15 +117,15 @@ The second option uses the Windows Media Creation Tool which can be used to Down
 
 Select *Windows 11 (multi-edition ISO for x64)*:
 
-<img src='./images/img_019.png' alt='img_019' width='650'/>
+<img src='./images/img_019.png' alt='img_019' width='900'/>
 
 Select *Download Now*:
 
-<img src='./images/img_020.png' alt='img_020' width='650'/>
+<img src='./images/img_020.png' alt='img_020' width='900'/>
 
 Select the Language:
 
-<img src='./images/img_021.png' alt='img_021' width='650'/>
+<img src='./images/img_021.png' alt='img_021' width='900'/>
 
 Note that for English there are two options:
 
@@ -134,27 +134,27 @@ Note that for English there are two options:
 
 Microsoft refer to English (UK) as English International.
 
-<img src='./images/img_022.png' alt='img_022' width='650'/>
+<img src='./images/img_022.png' alt='img_022' width='900'/>
 
 Select *Confirm*:
 
-<img src='./images/img_023.png' alt='img_023' width='650'/>
+<img src='./images/img_023.png' alt='img_023' width='900'/>
 
 Select 64 Bit Download:
 
-<img src='./images/img_024.png' alt='img_024' width='650'/>
+<img src='./images/img_024.png' alt='img_024' width='900'/>
 
 ## Checking ISO Checksums
 
 Right click the ISO and select *Copy as Path*:
 
-<img src='./images/img_025.png' alt='img_025' width='650'/>
+<img src='./images/img_025.png' alt='img_025' width='900'/>
 
-<img src='./images/img_026.png' alt='img_026' width='650'/>
+<img src='./images/img_026.png' alt='img_026' width='900'/>
 
 Right click the Start Button and select *Terminal*:
 
-<img src='./images/img_027.png' alt='img_027' width='650'/>
+<img src='./images/img_027.png' alt='img_027' width='900'/>
 
 Input:
 
@@ -164,55 +164,55 @@ Get-FileHash path_to_windows.iso
 
 To paste into the Terminal use `Ctrl` + `⇧` + `v`:
 
-<img src='./images/img_028.png' alt='img_028' width='650'/>
+<img src='./images/img_028.png' alt='img_028' width='900'/>
 
-<img src='./images/img_029.png' alt='img_029' width='650'/>
+<img src='./images/img_029.png' alt='img_029' width='900'/>
 
 Highlight and copy the ISO Checksum. To copy from the Terminal use `Ctrl` + `⇧` + `c`:
 
-<img src='./images/img_030.png' alt='img_030' width='650'/>
+<img src='./images/img_030.png' alt='img_030' width='900'/>
 
 On the Windows 11 Software Download Page, select *Verify Your Download*:
 
-<img src='./images/img_031.png' alt='img_031' width='650'/>
+<img src='./images/img_031.png' alt='img_031' width='900'/>
 
 Press 'Ctrl' + 'f' and paste in the ISO Checksum. A match should found meaning the ISO has been downloaded without corruption:
 
-<img src='./images/img_032.png' alt='img_032' width='650'/>
+<img src='./images/img_032.png' alt='img_032' width='900'/>
 
 ## Upgrading Install From ISO
 
 Right click the ISO and select *Mount*:
 
-<img src='./images/img_033.png' alt='img_033' width='650'/>
+<img src='./images/img_033.png' alt='img_033' width='900'/>
 
 Double click the *setup.exe*:
 
-<img src='./images/img_034.png' alt='img_034' width='650'/>
+<img src='./images/img_034.png' alt='img_034' width='900'/>
 
 Select *Yes* at the User Account Control Prompt:
 
-<img src='./images/img_035.png' alt='img_035' width='650'/>
+<img src='./images/img_035.png' alt='img_035' width='900'/>
 
 Check *Yes* and select *Next*:
 
-<img src='./images/img_036.png' alt='img_036' width='650'/>
+<img src='./images/img_036.png' alt='img_036' width='900'/>
 
 The Windows Setup will Get Updates:
 
-<img src='./images/img_037.png' alt='img_037' width='650'/>
+<img src='./images/img_037.png' alt='img_037' width='900'/>
 
 The Windows Setup will Check Your PC:
 
-<img src='./images/img_038.png' alt='img_038' width='650'/>
+<img src='./images/img_038.png' alt='img_038' width='900'/>
 
 <details>
 
 <summary>Unsupported Processors or TPM Version</summary>
 
-> If attempting to upgrade a Device with an Unsupported Processor (for example in this case, in an OptiPlex 7040 with a 6th Generation Core i5-6500T) or a Device without a TPM 2.0. *This Device doesn't currently meet Windows 11 System Requirements* will display. Select *Close*:
+> If attempting to upgrade a Device with an Unsupported Processor (for example in this case, in an OptiPlex 7040 with a 6th Generation Core i5-9000T) or a Device without a TPM 2.0. *This Device doesn't currently meet Windows 11 System Requirements* will display. Select *Close*:
 
-<img src='./images/img_039.png' alt='img_039' width='650'/>
+<img src='./images/img_039.png' alt='img_039' width='900'/>
 
 > Microsoft by default block a Windows 11 Upgrade Installation on Devices that don't satisfy Windows 11 **soft** system requirements however document a registry edit that can be used to bypass this block. This bypass will work on systems that do not satisfy the *soft* system requirements but otherwise satisfy the **hard** system requirements. [Microsoft: Other Ways to Install Windows 11](https://support.microsoft.com/en-gb/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e). 
 
@@ -222,11 +222,11 @@ The Windows Setup will Check Your PC:
 regedit
 ```
 
-<img src='./images/img_040.png' alt='img_040' width='650'/>
+<img src='./images/img_040.png' alt='img_040' width='900'/>
 
 > Select *Yes* at the User Account Control Prompt:
 
-<img src='./images/img_041.png' alt='img_041' width='650'/>
+<img src='./images/img_041.png' alt='img_041' width='900'/>
 
 > Navigate to the registry key:
 
@@ -238,19 +238,19 @@ HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 
 > Navigate to the *HKEY_LOCAL_MACHINE* folder:
 
-<img src='./images/img_042.png' alt='img_042' width='650'/>
+<img src='./images/img_042.png' alt='img_042' width='900'/>
 
 > Then to the *System* subfolder:
 
-<img src='./images/img_043.png' alt='img_043' width='650'/>
+<img src='./images/img_043.png' alt='img_043' width='900'/>
 
 > Then to the *Setup* subfolder:
 
-<img src='./images/img_044.png' alt='img_044' width='650'/>
+<img src='./images/img_044.png' alt='img_044' width='900'/>
 
 > Then to the *MoSetup* subfolder:
 
-<img src='./images/img_045.png' alt='img_045' width='650'/>
+<img src='./images/img_045.png' alt='img_045' width='900'/>
 
 > Copy the following:
 
@@ -258,91 +258,91 @@ HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 AllowUpgradesWithUnsupportedTPMOrCPU
 ```
 
-<img src='./images/img_046.png' alt='img_046' width='650'/>
+<img src='./images/img_046.png' alt='img_046' width='900'/>
 
 > In the open directory right click to display the right click context menu. Select *New* → *DWORD (32 Bit) Value*: 
 
-<img src='./images/img_047.png' alt='img_047' width='650'/>
+<img src='./images/img_047.png' alt='img_047' width='900'/>
 
 > Paste in *AllowUpgradesWithUnsupportedTPMOrCPU*:
 
-<img src='./images/img_048.png' alt='img_048' width='650'/>
+<img src='./images/img_048.png' alt='img_048' width='900'/>
 
 > Double click this *DWORD* value to edit it:
 
-<img src='./images/img_049.png' alt='img_049' width='650'/>
+<img src='./images/img_049.png' alt='img_049' width='900'/>
 
 > Change the value to `1` and press *OK*. Then close down the Registry Editor:
 
-<img src='./images/img_050.png' alt='img_050' width='650'/>
+<img src='./images/img_050.png' alt='img_050' width='900'/>
 
 > Restart the *setup.exe* from the ISO. The *soft* system requirements message should should be bypassed and as this system satisfies the *hard* system requirement, the installation should proceed as normal:
 
-<img src='./images/img_051.png' alt='img_051' width='650'/>
+<img src='./images/img_051.png' alt='img_051' width='900'/>
 
 </details>
 
 Once the Check is Complete you will be taken to the License Agreement Screen. Select *Accept*:
 
-<img src='./images/img_052.png' alt='img_052' width='650'/>
+<img src='./images/img_052.png' alt='img_052' width='900'/>
 
 The Windows Setup will check if the Device is Ready for the Install:
 
-<img src='./images/img_053.png' alt='img_053' width='650'/>
+<img src='./images/img_053.png' alt='img_053' width='900'/>
 
 
 The Windows Setup will check if the Internal Storage Drive on your Device has enough free space for the Upgrade Install:
 
-<img src='./images/img_054.png' alt='img_054' width='650'/>
+<img src='./images/img_054.png' alt='img_054' width='900'/>
 
 The in place Upgrade Install will by default upgrade the Operating System Files, Retain Files and Applications. If there is an incompatible Application it may be removed and details will be listed here. Select *Install* to proceed:
 
-<img src='./images/img_055.png' alt='img_055' width='650'/>
+<img src='./images/img_055.png' alt='img_055' width='900'/>
 
 Windows 11 will Install:
 
-<img src='./images/img_056.png' alt='img_056' width='650'/>
+<img src='./images/img_056.png' alt='img_056' width='900'/>
 
 Restart the Device:
 
-<img src='./images/img_057.png' alt='img_057' width='650'/>
+<img src='./images/img_057.png' alt='img_057' width='900'/>
 
-<img src='./images/img_058.png' alt='img_058' width='650'/>
+<img src='./images/img_058.png' alt='img_058' width='900'/>
 
-<img src='./images/img_059.png' alt='img_059' width='650'/>
+<img src='./images/img_059.png' alt='img_059' width='900'/>
 
 Continue to Update:
 
-<img src='./images/img_060.png' alt='img_060' width='650'/>
+<img src='./images/img_060.png' alt='img_060' width='900'/>
 
 Some privacy options will now display. Review each setting and select *Accept*:
 
-<img src='./images/img_061.png' alt='img_061' width='650'/>
+<img src='./images/img_061.png' alt='img_061' width='900'/>
 
-<img src='./images/img_062.png' alt='img_062' width='650'/>
+<img src='./images/img_062.png' alt='img_062' width='900'/>
 
-<img src='./images/img_063.png' alt='img_063' width='650'/>
+<img src='./images/img_063.png' alt='img_063' width='900'/>
 
-<img src='./images/img_064.png' alt='img_064' width='650'/>
+<img src='./images/img_064.png' alt='img_064' width='900'/>
 
-<img src='./images/img_065.png' alt='img_065' width='650'/>
+<img src='./images/img_065.png' alt='img_065' width='900'/>
 
 Once these are reviewed, you will return to the Windows Desktop:
 
-<img src='./images/img_066.png' alt='img_066' width='650'/>
+<img src='./images/img_066.png' alt='img_066' width='900'/>
 
 Right click the Start Button and select *System*:
 
-<img src='./images/img_067.png' alt='img_067' width='650'/>
+<img src='./images/img_067.png' alt='img_067' width='900'/>
 
 The Windows Version is now up to date:
 
-<img src='./images/img_068.png' alt='img_068' width='650'/>
+<img src='./images/img_068.png' alt='img_068' width='900'/>
 
 <details>
 <summary>Unsupported Processors or TPM Version Example</summary>
 
-<img src='./images/img_069.png' alt='img_069' width='650'/>
+<img src='./images/img_069.png' alt='img_069' width='900'/>
 
 </details>
 
