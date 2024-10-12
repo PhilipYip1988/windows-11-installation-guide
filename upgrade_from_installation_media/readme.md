@@ -1,6 +1,6 @@
 # Upgrading from Windows 11 Installation Media
 
-This tutorial will instruct in using Windows Installation Media to Upgrade to the latest Windows 11 Mainstream Build on a supported Dell XPS 8960. The Upgrade Assistant will work on any previous Mainstream Build of Windows 10 or WIndows 11.
+This tutorial will instruct in using Windows Installation Media to Upgrade to the latest Windows 11 Mainstream Build on a supported Dell XPS 8960. The Upgrade Assistant will work on any previous Mainstream Build of Windows 10 or Windows 11.
 
 ## Gathering System Information
 
