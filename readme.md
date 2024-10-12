@@ -127,11 +127,3 @@ To install Windows 11 your Device should satisfy the following **Soft** System R
 ### Clean Install
 
 * [Performing a Clean Install from USB](/clean_install/readme.md)
-
-## Preboot Diagnostics
-
-* Running Preboot Diagnostics
-
-## Preventing Windows Update from Automatically Restarting
-
-* Preventing Windows 11 from Automatically Restarting using Active Hours
