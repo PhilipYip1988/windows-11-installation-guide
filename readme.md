@@ -112,18 +112,19 @@ To install Windows 11 your Device should satisfy the following **Soft** System R
 
 ### Creating Installation Media
 
-* [Creating a Bootable USB (on Windows)](/bootable_usb_windows/readme.md)
-* [Creating a Bootable USB (on Ubuntu)](/bootable_usb_ubuntu/readme.md)
+* [Creating a Bootable USB (on Windows)](./bootable_usb_windows/readme.md)
+    * [Slipstreaming the Dell Driver Pack](./bootable_usb_windows/slipstream_powershell/readme.md)
+* [Creating a Bootable USB (on Ubuntu)](./bootable_usb_ubuntu/readme.md)
 
 ### Updating the BIOS from USB
 
-* [Update the BIOS from USB (on Windows)](/bios_update_usb_windows/readme.md)
-* [Update the BIOS from USB (on Ubuntu)](/bios_update_usb_ubuntu/readme.md)
+* [Update the BIOS from USB (on Windows)](./bios_update_usb_windows/readme.md)
+* [Update the BIOS from USB (on Ubuntu)](./bios_update_usb_ubuntu/readme.md)
 
 ### BIOS Setup
 
-* [Dell BIOS Setup](/bios_setup/readme.md)
+* [Dell BIOS Setup](./bios_setup/readme.md)
 
 ### Clean Install
 
-* [Performing a Clean Install from USB](/clean_install/readme.md)
+* [Performing a Clean Install from USB](./clean_install/readme.md)
