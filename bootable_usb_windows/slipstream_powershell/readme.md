@@ -1,6 +1,6 @@
 # Windows 11 Installation Media Slipstream Script
 
-This folder contains a `slipstream.ps1` and `newiso.ps1` slipstream script which is used to slipstream the Dell Command PE Driver Pack to the boot.wim and the Dell Command Driver Pack to the install.wim of Windows 11 Installation Media, allowing installation of Windows 11 when system drivers such as the network drivers are not preinstalled. [YouTube Video](https://www.youtube.com/watch?v=r-LcJ0OHYsI&lc).
+This folder contains a `slipstream.ps1` and `newiso.ps1` slipstream script which is used to slipstream the Dell Command PE Driver Pack to the boot.wim and the Dell Command Driver Pack to the install.wim of Windows 11 Installation Media, allowing installation of Windows 11 when system drivers such as the network drivers are not preinstalled. The [YouTube Video](https://www.youtube.com/watch?v=r-LcJ0OHYsI&lc) gives more details in using these scripts with VSCode.
 
 The direct ISO download must be used for this purpose:
 
