@@ -32,7 +32,7 @@ The following table shows the relative performance for an i5 processor across ge
 | 13th Gen   | i5-13600K   | 2022        | Windows 10<br>Windows 11              | 4,426           | 16,913          | 9.70x             | 18.09x           |
 | 14th Gen   | i5-14600K   | 2024        | Windows 11                            | 5,000           | 18,000          | 10.96x            | 19.28x           |
 
-Windows 11 was originally meant to support only 10th and 11th Generation Processors and newer but Microsoft scaled back the system requirements to allow 8th and 9th Generation Processors. The relative performance of lower end 8th and 9th generation processors isn't significantly higher than upper end 6th and 7th generation processors and many users have reported Windows 11 to work okay on an i5 or i7 6th or 7th Generation Processor.
+Windows 11 was originally meant to support only 10th and 11th Generation Processors and newer but Microsoft scaled back the system requirements to allow 8th and 9th Generation Processors. The relative performance of lower end 8th and 9th generation processors isn't significantly higher than upper end 6th and 7th generation processors and many users have reported Windows 11 to work okay on an i5 or i7 6th or 7th Generation Processor (see Soft System Requirements).
 
 To install Windows 11 your Device should satisfy the following **Soft** System Requirements:
 
