@@ -17,7 +17,7 @@ The following table shows the relative performance for an i5 processor across ge
 
 | Generation | Model        | Release Year | Windows Version Support                 | Single-Core Score | Multi-Core Score | Single-Core Increase | Multi-Core Increase |
 |------------|-------------|-------------|----------------------------------------|-----------------|-----------------|-------------------|------------------|
-| 1st Gen    | i5-650      | 2010        | Windows XP (unofficial)<br>Windows 7<br>Windows 8 | 456             | 934             | —                 | —                |
+| 1st Gen    | i5-650      | 2010        | Windows XP<br>Windows 7<br>Windows 8 | 456             | 934             | —                 | —                |
 | 2nd Gen    | i5-2500K    | 2011        | Windows 7<br>Windows 8<br>Windows 10  | 1,017           | 3,496           | 2.23x             | 3.74x            |
 | 3rd Gen    | i5-3570K    | 2012        | Windows 7<br>Windows 8<br>Windows 10  | 1,428           | 4,657           | 3.13x             | 4.98x            |
 | 4th Gen    | i5-4670K    | 2013        | Windows 7<br>Windows 8<br>Windows 10  | 1,696           | 5,532           | 3.72x             | 5.92x            |
