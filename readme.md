@@ -13,6 +13,27 @@ This is a Windows 11 Setup Guide for Dell Computers. This guide looks at install
 
 ## System Requirements
 
+The following table shows the relative performance for an i5 processor accrosss generations:
+
+| Generation | Model        | Release Year | Windows Version Support       | Single-Core Score | Multi-Core Score | Single-Core Increase | Multi-Core Increase |
+|------------|-------------|-------------|------------------------------|-----------------|-----------------|-------------------|------------------|
+| 1st Gen    | i5-650      | 2010        | Windows 7, Windows 8         | 456             | 934             | —                 | —                |
+| 2nd Gen    | i5-2500K    | 2011        | Windows 7, Windows 8, Windows 10 | 1,017           | 3,496           | 2.23x             | 3.74x            |
+| 3rd Gen    | i5-3570K    | 2012        | Windows 7, Windows 8, Windows 10 | 1,428           | 4,657           | 3.13x             | 4.98x            |
+| 4th Gen    | i5-4670K    | 2013        | Windows 7, Windows 8, Windows 10 | 1,696           | 5,532           | 3.72x             | 5.92x            |
+| 5th Gen    | i5-5675C    | 2015        | Windows 8, Windows 10        | 1,825           | 6,208           | 4.00x             | 6.64x            |
+| 6th Gen    | i5-6600K    | 2015        | Windows 10                   | 1,926           | 6,963           | 4.23x             | 7.45x            |
+| 7th Gen    | i5-7600K    | 2017        | Windows 10                   | 2,092           | 7,871           | 4.59x             | 8.43x            |
+| 8th Gen    | i5-8600K    | 2017        | Windows 10                   | 2,291           | 9,309           | 5.02x             | 9.96x            |
+| 9th Gen    | i5-9600K    | 2018        | Windows 10                   | 2,591           | 10,430          | 5.68x             | 11.16x           |
+| 10th Gen   | i5-10600K   | 2020        | Windows 10                   | 3,294           | 12,606          | 7.23x             | 13.50x           |
+| 11th Gen   | i5-11600K   | 2021        | Windows 10, Windows 11       | 3,623           | 13,556          | 7.96x             | 14.52x           |
+| 12th Gen   | i5-12600K   | 2021        | Windows 10, Windows 11       | 3,936           | 15,213          | 8.63x             | 16.28x           |
+| 13th Gen   | i5-13600K   | 2022        | Windows 10, Windows 11       | 4,426           | 16,913          | 9.70x             | 18.09x           |
+| 14th Gen   | i5-14600K   | 2024        | Windows 11                   | 5,000           | 18,000          | 10.96x            | 19.28x           |
+
+Windows 11 was originally meant to support only 10th and 11th Generation Processors and newer but Microsoft scaled back the system requirements to allow 8th and 9th Generation Processors. The relative performance of lower end 8th and 9th generation processors isn't significantly higher than upper end 6th and 7th generation processors and many users have reported Windows 11 to work okay on an i5 or i7 6th or 7th Generation Processor.
+
 To install Windows 11 your Device should satisfy the following **Soft** System Requirements:
 
 * 8th-15th Generation Intel Core or 2nd-7th Generation AMD Ryzen Processor
