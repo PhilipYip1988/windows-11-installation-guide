@@ -13,7 +13,7 @@ This is a Windows 11 Setup Guide for Dell Computers. This guide looks at install
 
 ## System Requirements
 
-The following table shows the relative performance for an i5 processor accrosss generations:
+The following table shows the relative performance for an i5 processor accross generations:
 
 | Generation | Model        | Release Year | Windows Version Support       | Single-Core Score | Multi-Core Score | Single-Core Increase | Multi-Core Increase |
 |------------|-------------|-------------|------------------------------|-----------------|-----------------|-------------------|------------------|
