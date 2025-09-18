@@ -283,26 +283,6 @@ Note the *Sign-In Options* do not include a *Local Account*. Microsoft have move
 
 > However there are some cases where a Local Account is required. For example as an OEM, we setup up specialised software on the customer PC on a Local Account as we don't have the customers Microsoft Account Details.
 
-> The default accessibility settings in the setup are limited and do not allow for disconnection from the internet:
-
-<img src='./images/img_054.png' alt='img_054' width='900'/>
-
-> Press `⇧` and `F10` to open up the command prompt:
-
-<img src='./images/img_055.png' alt='img_055' width='900'/>
-
-> Once the command prompt is open, the accessibility settings button opens the full settings. Here Network and Internet can be selected:
-
-<img src='./images/img_056.png' alt='img_056' width='900'/>
-
-> And Wi-Fi can be turned off:
-
-<img src='./images/img_057.png' alt='img_057' width='900'/>
-
-> Settings can be closed:
-
-<img src='./images/img_058.png' alt='img_058' width='900'/>
-
 > Press `⇧` and `F10` to open up the command prompt:
 
 <img src='./images/img_059.png' alt='img_059' width='900'/>
@@ -311,19 +291,11 @@ Note the *Sign-In Options* do not include a *Local Account*. Microsoft have move
 
 <img src='./images/img_060.png' alt='img_060' width='900'/>
 
-> To bypass the Network Required Option input:
+> To sign in with a Local Account input:
 
 ```powershell
-OOBE\BYPASSNRO
+start ms-cxh:localonly
 ```
-
-> The computer will reboot, restarting the OOBE:
-
-<img src='./images/img_061.png' alt='img_061' width='900'/>
-
-> Select *I don't have internet*:
-
-<img src='./images/img_062.png' alt='img_062' width='900'/>
 
 > Input your username and select *Next*:
 
